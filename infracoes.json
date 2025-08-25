@@ -1,0 +1,1868 @@
+{
+"infrações":[
+  {
+    "INFRAÇÃO": "500-20",
+    "DESCRIÇÃO": "Multa, por não identificação do condutor infrator, imposta à pessoa jurídica"
+  },
+  {
+    "INFRAÇÃO": "501-00",
+    "DESCRIÇÃO": "Dirigir veículo sem possuir CNH/PPD/ACC"
+  },
+  {
+    "INFRAÇÃO": "502-91",
+    "DESCRIÇÃO": "Dirigir veículo com CNH/PPD/ACC cassada"
+  },
+  {
+    "INFRAÇÃO": "502-92",
+    "DESCRIÇÃO": "Dirigir veículo com CNH/PPD/ACC com suspensão do direito de dirigir"
+  },
+  {
+    "INFRAÇÃO": "502-93",
+    "DESCRIÇÃO": "Dirigir veículo com CNH, com suspensão do direito de dirigir."
+  },
+  {
+    "INFRAÇÃO": "503-71",
+    "DESCRIÇÃO": "Dirigir veículo com CNH de categoria diferente da do veículo"
+  },
+  {
+    "INFRAÇÃO": "503-72",
+    "DESCRIÇÃO": "Dirigir veículo com PPD de categoria diferente da do veículo"
+  },
+  {
+    "INFRAÇÃO": "504-50",
+    "DESCRIÇÃO": "Dirigir veículo com validade de CNH/PPD vencida há mais de 30 dias"
+  },
+  {
+    "INFRAÇÃO": "505-31",
+    "DESCRIÇÃO": "Dirigir veículo sem usar lentes corretoras de visão"
+  },
+  {
+    "INFRAÇÃO": "505-32",
+    "DESCRIÇÃO": "Dirigir veículo sem usar aparelho auxiliar de audição"
+  },
+  {
+    "INFRAÇÃO": "505-33",
+    "DESCRIÇÃO": "Dirigir veículo sem usar aparelho auxiliar de prótese física"
+  },
+  {
+    "INFRAÇÃO": "505-34",
+    "DESCRIÇÃO": "Dirigir veículo s/ adaptações impostas na concessão/renovação licença conduzir"
+  },
+  {
+    "INFRAÇÃO": "506-10",
+    "DESCRIÇÃO": "Entregar veículo a pessoa sem CNH/PPD/ACC"
+  },
+  {
+    "INFRAÇÃO": "507-01",
+    "DESCRIÇÃO": "Entregar veículo a pessoa com CNH/PPD/ACC cassada"
+  },
+  {
+    "INFRAÇÃO": "507-02",
+    "DESCRIÇÃO": "Entregar veículo a pessoa com CNH/PPD/ACC com susp do direito de dirigir"
+  },
+  {
+    "INFRAÇÃO": "508-81",
+    "DESCRIÇÃO": "Entregar veículo a pessoa com CNH de categoria diferente da do veículo"
+  },
+  {
+    "INFRAÇÃO": "508-82",
+    "DESCRIÇÃO": "Entregar veículo a pessoa com PPD de categoria diferente da do veículo"
+  },
+  {
+    "INFRAÇÃO": "509-60",
+    "DESCRIÇÃO": "Entregar veículo a pessoa com CNH/PPD vencida há mais de 30 dias"
+  },
+  {
+    "INFRAÇÃO": "510-01",
+    "DESCRIÇÃO": "Entregar o veículo a pessoa sem usar lentes corretoras de visão"
+  },
+  {
+    "INFRAÇÃO": "510-02",
+    "DESCRIÇÃO": "Entregar o veículo a pessoa sem usar aparelho auxiliar de audição"
+  },
+  {
+    "INFRAÇÃO": "510-03",
+    "DESCRIÇÃO": "Entregar o veículo a pessoa sem aparelho de prótese física"
+  },
+  {
+    "INFRAÇÃO": "510-04",
+    "DESCRIÇÃO": "Entregar veíc pessoa s/ adaptações impostas concessão/renovação licença conduzir"
+  },
+  {
+    "INFRAÇÃO": "511-80",
+    "DESCRIÇÃO": "Permitir posse/condução do veículo a pessoa sem CNH/PPD/ACC"
+  },
+  {
+    "INFRAÇÃO": "512-61",
+    "DESCRIÇÃO": "Permitir posse/condução do veículo a pessoa com CNH/PPD/ACC cassada"
+  },
+  {
+    "INFRAÇÃO": "512-62",
+    "DESCRIÇÃO": "Permitir posse/condução veíc pessoa com CNH/PPD/ACC c/ susp. direito de dirigir"
+  },
+  {
+    "INFRAÇÃO": "513-41",
+    "DESCRIÇÃO": "Permitir posse/condução veíc a pessoa com CNH categoria diferente da do veículo"
+  },
+  {
+    "INFRAÇÃO": "513-42",
+    "DESCRIÇÃO": "Permitir posse/condução veíc a pessoa com PPD categoria diferente da do veículo"
+  },
+  {
+    "INFRAÇÃO": "514-20",
+    "DESCRIÇÃO": "Permitir posse/condução do veíc a pessoa com CNH/PPD vencida há mais de 30 dias"
+  },
+  {
+    "INFRAÇÃO": "515-01",
+    "DESCRIÇÃO": "Permitir posse/condução do veículo a pessoa sem usar lentes corretoras de visão"
+  },
+  {
+    "INFRAÇÃO": "515-02",
+    "DESCRIÇÃO": "Permitir posse/condução do veículo a pessoa s/ usar aparelho auxiliar de audição"
+  },
+  {
+    "INFRAÇÃO": "515-03",
+    "DESCRIÇÃO": "Permitir posse/condução do veículo a pessoa sem usar aparelho de prótese física"
+  },
+  {
+    "INFRAÇÃO": "515-04",
+    "DESCRIÇÃO": "Permitir posse/cond veíc s/ adaptações impostas concessão/renovação licença cond"
+  },
+  {
+    "INFRAÇÃO": "516-92",
+    "DESCRIÇÃO": "Dirigir sob a influência de qquer substância psicoativa que deter. dependência"
+  },
+  {
+    "INFRAÇÃO": "516-91",
+    "DESCRIÇÃO": "Dirigir sob a influência de álcool"
+  },
+  {
+    "INFRAÇÃO": "517-70",
+    "DESCRIÇÃO": "Confiar/entregar veíc pess c/ estado físico/psíquico s/ condições dirigir segur"
+  },
+  {
+    "INFRAÇÃO": "518-52",
+    "DESCRIÇÃO": "Deixar o passageiro de usar o cinto segurança"
+  },
+  {
+    "INFRAÇÃO": "518-51",
+    "DESCRIÇÃO": "Deixar o condutor de usar o cinto segurança"
+  },
+  {
+    "INFRAÇÃO": "518-50",
+    "DESCRIÇÃO": "Deixar o condutor ou passageiro de usar o cinto de segurança."
+  },
+  {
+    "INFRAÇÃO": "519-30",
+    "DESCRIÇÃO": "Transportar criança sem observância das normas de segurança estabelecidas p/ CTB"
+  },
+  {
+    "INFRAÇÃO": "520-70",
+    "DESCRIÇÃO": "Dirigir sem atenção ou sem os cuidados indispensáveis à segurança"
+  },
+  {
+    "INFRAÇÃO": "521-52",
+    "DESCRIÇÃO": "Dirigir ameaçando os demais veículos"
+  },
+  {
+    "INFRAÇÃO": "521-51",
+    "DESCRIÇÃO": "Dirigir ameaçando os pedestres que estejam atravessando a via pública"
+  },
+  {
+    "INFRAÇÃO": "521-50",
+    "DESCRIÇÃO": "Dirigir ameaçando os pedestres que estejam atravessando a via pública ou os demais veículos ."
+  },
+  {
+    "INFRAÇÃO": "522-31",
+    "DESCRIÇÃO": "Usar veículo para arremessar sobre os pedestres água ou detritos"
+  },
+  {
+    "INFRAÇÃO": "522-32",
+    "DESCRIÇÃO": "Usar veículo para arremessar sobre os veículos água ou detritos"
+  },
+  {
+    "INFRAÇÃO": "523-11",
+    "DESCRIÇÃO": "Atirar do veículo objetos ou substâncias"
+  },
+  {
+    "INFRAÇÃO": "523-12",
+    "DESCRIÇÃO": "Abandonar na via objetos ou substâncias"
+  },
+  {
+    "INFRAÇÃO": "523-10",
+    "DESCRIÇÃO": "Atirar do veículo ou abandonar na via pública objetos ou substâncias."
+  },
+  {
+    "INFRAÇÃO": "524-00",
+    "DESCRIÇÃO": "Disputar corrida"
+  },
+  {
+    "INFRAÇÃO": "525-83",
+    "DESCRIÇÃO": "Promover na via exibição e demonstração de perícia em manobra de veículo s/perm"
+  },
+  {
+    "INFRAÇÃO": "525-81",
+    "DESCRIÇÃO": "Promover na via competição sem permissão"
+  },
+  {
+    "INFRAÇÃO": "525-82",
+    "DESCRIÇÃO": "Promover na via eventos organizados sem permissão"
+  },
+  {
+    "INFRAÇÃO": "526-63",
+    "DESCRIÇÃO": "Participar como condutor exib/demonst perícia em manobra de veic s/ permissão"
+  },
+  {
+    "INFRAÇÃO": "526-62",
+    "DESCRIÇÃO": "Participar na via como condutor em eventos organizados sem permissão"
+  },
+  {
+    "INFRAÇÃO": "526-61",
+    "DESCRIÇÃO": "Participar na via como condutor em competição sem permissão"
+  },
+  {
+    "INFRAÇÃO": "526-60",
+    "DESCRIÇÃO": "Participar na via, como condutor de competição esportiva, eventos organizados, exibição e demonstração de perícia em manobra de veículo."
+  },
+  {
+    "INFRAÇÃO": "527-42",
+    "DESCRIÇÃO": "Utilizar-se de veículo para demostrar ou exibir manobra perigosa mediante derrapagem ou frenagem com deslizamento ou arrastamento de pneus"
+  },
+  {
+    "INFRAÇÃO": "527-41",
+    "DESCRIÇÃO": "Utilizar-se de veículo para demonstrar ou exibir manobra perigosa mediante arrancada brusca"
+  },
+  {
+    "INFRAÇÃO": "528-20",
+    "DESCRIÇÃO": "Deixar o cond envolvido em acidente, de prestar ou providenciar socorro a vítima"
+  },
+  {
+    "INFRAÇÃO": "529-00",
+    "DESCRIÇÃO": "Deixar o cond envolvido em acid, de adotar provid p/ evitar perigo p/o trânsito"
+  },
+  {
+    "INFRAÇÃO": "530-40",
+    "DESCRIÇÃO": "Deixar o cond envolvido em acidente, de preservar local p/ trab policia/pericia"
+  },
+  {
+    "INFRAÇÃO": "531-20",
+    "DESCRIÇÃO": "Deixar o cond envolvido em acid, de remover o veíc local qdo determ polic/agente"
+  },
+  {
+    "INFRAÇÃO": "532-00",
+    "DESCRIÇÃO": "Deixar o cond envolvido em acid, de identificar-se policial e prestar inf p/o BO"
+  },
+  {
+    "INFRAÇÃO": "533-90",
+    "DESCRIÇÃO": "Deixar o cond de prestar socorro vítima acid de trânsito, qdo solicit p/ agente"
+  },
+  {
+    "INFRAÇÃO": "534-70",
+    "DESCRIÇÃO": "Deixar o condutor envolvido em acidente s/ vítima, de remover o veículo do local"
+  },
+  {
+    "INFRAÇÃO": "535-50",
+    "DESCRIÇÃO": "Fazer ou deixar que se faça reparo em veíc, em rodovia e via de trânsito rápido"
+  },
+  {
+    "INFRAÇÃO": "536-30",
+    "DESCRIÇÃO": "Fazer/deixar que se faça reparo em veíc nas vias (q não rodovia/transito rapido)"
+  },
+  {
+    "INFRAÇÃO": "537-10",
+    "DESCRIÇÃO": "Ter seu veículo imobilizado na via por falta de combustível"
+  },
+  {
+    "INFRAÇÃO": "538-00",
+    "DESCRIÇÃO": "Estacionar nas esquinas e a menos de 5m do alinhamento da via transversal"
+  },
+  {
+    "INFRAÇÃO": "539-80",
+    "DESCRIÇÃO": "Estacionar afastado da guia da calçada (meio-fio) de 50cm a 1m"
+  },
+  {
+    "INFRAÇÃO": "540-10",
+    "DESCRIÇÃO": "Estacionar afastado da guia da calçada (meio-fio) a mais de 1m"
+  },
+  {
+    "INFRAÇÃO": "541-00",
+    "DESCRIÇÃO": "Estacionar em desacordo com as posições estabelecidas no CTB"
+  },
+  {
+    "INFRAÇÃO": "542-81",
+    "DESCRIÇÃO": "Estacionar na pista de rolamento das estradas"
+  },
+  {
+    "INFRAÇÃO": "542-82",
+    "DESCRIÇÃO": "Estacionar na pista de rolamento das rodovias"
+  },
+  {
+    "INFRAÇÃO": "542-83",
+    "DESCRIÇÃO": "Estacionar na pista de rolamento das vias de trânsito rápido"
+  },
+  {
+    "INFRAÇÃO": "542-84",
+    "DESCRIÇÃO": "Estacionar na pista de rolamento das vias dotadas de acostamento"
+  },
+  {
+    "INFRAÇÃO": "543-60",
+    "DESCRIÇÃO": "Estacionar junto/sobre hidrante de incêndio, registro de água/tampa de poço de visita de galeria subterânea"
+  },
+  {
+    "INFRAÇÃO": "543-61",
+    "DESCRIÇÃO": "Estacionar o veículo junto a hidrantes de incêndio, desde que devidamente identificado, conforme especificação do CONTRAN."
+  },
+  {
+    "INFRAÇÃO": "544-40",
+    "DESCRIÇÃO": "Estacionar nos acostamentos"
+  },
+  {
+    "INFRAÇÃO": "545-21",
+    "DESCRIÇÃO": "Estacionar no passeio"
+  },
+  {
+    "INFRAÇÃO": "545-22",
+    "DESCRIÇÃO": "Estacionar sobre faixa destinada a pedestre"
+  },
+  {
+    "INFRAÇÃO": "545-23",
+    "DESCRIÇÃO": "Estacionar sobre ciclovia ou ciclofaixa"
+  },
+  {
+    "INFRAÇÃO": "545-24",
+    "DESCRIÇÃO": "Estacionar nas ilhas ou refúgios"
+  },
+  {
+    "INFRAÇÃO": "545-25",
+    "DESCRIÇÃO": "Estacionar ao lado ou sobre canteiro central/divisores de pista de rolamento"
+  },
+  {
+    "INFRAÇÃO": "545-26",
+    "DESCRIÇÃO": "Estacionar ao lado ou sobre marcas de canalização"
+  },
+  {
+    "INFRAÇÃO": "545-27",
+    "DESCRIÇÃO": "Estacionar ao lado ou sobre gramado ou jardim público"
+  },
+  {
+    "INFRAÇÃO": "546-00",
+    "DESCRIÇÃO": "Estacionar em guia de calçada rebaixada destinada à entrada/saída de veículos"
+  },
+  {
+    "INFRAÇÃO": "547-90",
+    "DESCRIÇÃO": "Estacionar impedindo a movimentação de outro veículo"
+  },
+  {
+    "INFRAÇÃO": "548-70",
+    "DESCRIÇÃO": "Estacionar ao lado de outro veículo em fila dupla"
+  },
+  {
+    "INFRAÇÃO": "549-50",
+    "DESCRIÇÃO": "Estacionar na área de cruzamento de vias"
+  },
+  {
+    "INFRAÇÃO": "550-90",
+    "DESCRIÇÃO": "Estacionar no ponto de embarque/desembarque de passageiros transporte coletivo"
+  },
+  {
+    "INFRAÇÃO": "550-91",
+    "DESCRIÇÃO": "Estacionar o veículo onde houver sinalização horizontal delimitadora de ponto de embarque ou desembarque de passageiros de transporte coletivo."
+  },
+  {
+    "INFRAÇÃO": "550-92",
+    "DESCRIÇÃO": "Estacionar o veículo quando não houver sinalização horizontal delimitadora de ponto de embarque ou desembarque de passageiros de transporte coletivo."
+  },
+  {
+    "INFRAÇÃO": "551-71",
+    "DESCRIÇÃO": "Estacionar nos viadutos"
+  },
+  {
+    "INFRAÇÃO": "551-72",
+    "DESCRIÇÃO": "Estacionar nas pontes"
+  },
+  {
+    "INFRAÇÃO": "551-73",
+    "DESCRIÇÃO": "Estacionar nos túneis"
+  },
+  {
+    "INFRAÇÃO": "552-50",
+    "DESCRIÇÃO": "Estacionar na contramão de direção"
+  },
+  {
+    "INFRAÇÃO": "553-30",
+    "DESCRIÇÃO": "Estacionar aclive/declive ñ freado e sem calço segurança, PBT superior a 3500kg"
+  },
+  {
+    "INFRAÇÃO": "554-11",
+    "DESCRIÇÃO": "Estacionar em desacordo com a regulamentação especificada pela sinalização"
+  },
+  {
+    "INFRAÇÃO": "554-12",
+    "DESCRIÇÃO": "Estacionar em desacordo com a regulamentação - estacionamento rotativo"
+  },
+  {
+    "INFRAÇÃO": "554-13",
+    "DESCRIÇÃO": "Estacionar em desacordo com a regulamentação - ponto ou vaga de táxi"
+  },
+  {
+    "INFRAÇÃO": "554-14",
+    "DESCRIÇÃO": "Estacionar em desacordo com a regulamentação - vaga de carga/descarga"
+  },
+  {
+    "INFRAÇÃO": "554-17",
+    "DESCRIÇÃO": "Estacionar em desacordo com a regulamentação - vaga de curta duração"
+  },
+  {
+    "INFRAÇÃO": "554-10",
+    "DESCRIÇÃO": "Estacionar o veículo em desacordo com as condições regulamentadas especificamente pela sinalização (placa ? estacionamento regulamentado) ."
+  },
+  {
+    "INFRAÇÃO": "554-15",
+    "DESCRIÇÃO": "Estacionar em desacordo com a regulamentação ? vaga para portadores de necessidades especiais ."
+  },
+  {
+    "INFRAÇÃO": "554-16",
+    "DESCRIÇÃO": "Estacionar em desacordo com a regulamentação - vaga para idoso."
+  },
+  {
+    "INFRAÇÃO": "555-00",
+    "DESCRIÇÃO": "Estacionar em local/horário proibido especificamente pela sinalização"
+  },
+  {
+    "INFRAÇÃO": "556-80",
+    "DESCRIÇÃO": "Estacionar local/horário de estacionamento e parada proibidos pela sinalização"
+  },
+  {
+    "INFRAÇÃO": "557-60",
+    "DESCRIÇÃO": "Parar nas esquinas e a menos 5m do bordo do alinhamento da via transversal"
+  },
+  {
+    "INFRAÇÃO": "558-40",
+    "DESCRIÇÃO": "Parar afastado da guia da calçada (meio-fio) de 50cm a 1m"
+  },
+  {
+    "INFRAÇÃO": "559-20",
+    "DESCRIÇÃO": "Parar afastado da guia da calçada (meio-fio) a mais de 1m"
+  },
+  {
+    "INFRAÇÃO": "560-60",
+    "DESCRIÇÃO": "Parar em desacordo com as posições estabelecidas no CTB"
+  },
+  {
+    "INFRAÇÃO": "561-41",
+    "DESCRIÇÃO": "Parar na pista de rolamento das estradas"
+  },
+  {
+    "INFRAÇÃO": "561-42",
+    "DESCRIÇÃO": "Parar na pista de rolamento das rodovias"
+  },
+  {
+    "INFRAÇÃO": "561-43",
+    "DESCRIÇÃO": "Parar na pista de rolamento das vias de trânsito rápido"
+  },
+  {
+    "INFRAÇÃO": "561-44",
+    "DESCRIÇÃO": "Parar na pista de rolamento das demais vias dotadas de acostamento"
+  },
+  {
+    "INFRAÇÃO": "562-21",
+    "DESCRIÇÃO": "Parar no passeio"
+  },
+  {
+    "INFRAÇÃO": "562-22",
+    "DESCRIÇÃO": "Parar sobre faixa destinada a pedestres"
+  },
+  {
+    "INFRAÇÃO": "562-23",
+    "DESCRIÇÃO": "Parar nas ilhas ou refúgios"
+  },
+  {
+    "INFRAÇÃO": "562-24",
+    "DESCRIÇÃO": "Parar nos canteiros centrais/divisores de pista de rolamento"
+  },
+  {
+    "INFRAÇÃO": "562-25",
+    "DESCRIÇÃO": "Parar nas marcas de canalização"
+  },
+  {
+    "INFRAÇÃO": "563-00",
+    "DESCRIÇÃO": "Parar na área de cruzamento de vias"
+  },
+  {
+    "INFRAÇÃO": "564-91",
+    "DESCRIÇÃO": "Parar nos viadutos"
+  },
+  {
+    "INFRAÇÃO": "564-92",
+    "DESCRIÇÃO": "Parar nas pontes"
+  },
+  {
+    "INFRAÇÃO": "564-93",
+    "DESCRIÇÃO": "Parar nos túneis"
+  },
+  {
+    "INFRAÇÃO": "565-70",
+    "DESCRIÇÃO": "Parar na contramão de direção"
+  },
+  {
+    "INFRAÇÃO": "566-50",
+    "DESCRIÇÃO": "Parar em local/horário proibidos especificamente pela sinalização"
+  },
+  {
+    "INFRAÇÃO": "567-31",
+    "DESCRIÇÃO": "Parar sobre faixa de pedestres na mudança de sinal luminoso"
+  },
+  {
+    "INFRAÇÃO": "567-32",
+    "DESCRIÇÃO": "Parar sobre faixa de pedestres na mudança de sinal luminoso (fisc eletrônica)"
+  },
+  {
+    "INFRAÇÃO": "567-30",
+    "DESCRIÇÃO": "Parar o veículo sobre a faixa de pedestre na mudança de sinal luminoso."
+  },
+  {
+    "INFRAÇÃO": "568-10",
+    "DESCRIÇÃO": "Transitar na faixa/pista da direita regul circulação exclusiva determ veículo"
+  },
+  {
+    "INFRAÇÃO": "569-00",
+    "DESCRIÇÃO": "Transitar na faixa/pista da esquerda regul circulação exclusiva determ veículo"
+  },
+  {
+    "INFRAÇÃO": "570-30",
+    "DESCRIÇÃO": "Deixar de conservar o veículo na faixa a ele destinada pela sinalização de regul"
+  },
+  {
+    "INFRAÇÃO": "571-10",
+    "DESCRIÇÃO": "Deixar de conservar nas faixas da direita o veículo lento e de maior porte"
+  },
+  {
+    "INFRAÇÃO": "572-00",
+    "DESCRIÇÃO": "Transitar pela contramão de direção em via com duplo sentido de circulação"
+  },
+  {
+    "INFRAÇÃO": "573-80",
+    "DESCRIÇÃO": "Transitar pela contramão de direção em via c/ sinalização de regul sentido único"
+  },
+  {
+    "INFRAÇÃO": "574-61",
+    "DESCRIÇÃO": "Transitar em local/horário não permitido pela regul estabelecida p/ autoridade"
+  },
+  {
+    "INFRAÇÃO": "574-62",
+    "DESCRIÇÃO": "Transitar em local/horário não permitido pela regulamentação - rodízio"
+  },
+  {
+    "INFRAÇÃO": "574-63",
+    "DESCRIÇÃO": "Transitar em local/horário não permitido pela regulamentação - caminhão"
+  },
+  {
+    "INFRAÇÃO": "574-60",
+    "DESCRIÇÃO": "Transitar em local/horário não permitido pela regulamentação - veículo de carga."
+  },
+  {
+    "INFRAÇÃO": "575-40",
+    "DESCRIÇÃO": "Transitar em local/hora não permitidos pela regulamentação – Caminhão/Ônibus"
+  },
+  {
+    "INFRAÇÃO": "576-20",
+    "DESCRIÇÃO": "Transitar ao lado de outro veículo, interrompendo ou perturbando o trânsito"
+  },
+  {
+    "INFRAÇÃO": "577-01",
+    "DESCRIÇÃO": "Deixar de dar passagem a veículos precedidos de batedores devidamente identificados"
+  },
+  {
+    "INFRAÇÃO": "577-04",
+    "DESCRIÇÃO": "Deixar de dar passagem a veículos de operação e fiscalização de trânsito devidamente identificados"
+  },
+  {
+    "INFRAÇÃO": "577-05",
+    "DESCRIÇÃO": "Deixar de dar passagem a ambulância em serviço de urgência devidamente identificada"
+  },
+  {
+    "INFRAÇÃO": "577-03",
+    "DESCRIÇÃO": "Deixar de dar passagem a veículo de polícia em serviço de urgência devidamente identificado"
+  },
+  {
+    "INFRAÇÃO": "577-02",
+    "DESCRIÇÃO": "Deixar de dar passagem aos veículos de socorro de incêndio e salvamento quando em serviço de urgência e devidamente identificados"
+  },
+  {
+    "INFRAÇÃO": "578-90",
+    "DESCRIÇÃO": "Seguir veículo em serv urgência devid identific p/ alarme sonoro/ilum vermelha"
+  },
+  {
+    "INFRAÇÃO": "579-70",
+    "DESCRIÇÃO": "Forçar passagem entre veícs trans sent opostos na iminência realiz ultrapassagem"
+  },
+  {
+    "INFRAÇÃO": "580-00",
+    "DESCRIÇÃO": "Deixar de guardar distância de segurança lateral e frontal entre seu veículo e os demais bem como em relação ao bordo da pista"
+  },
+  {
+    "INFRAÇÃO": "581-91",
+    "DESCRIÇÃO": "Transitar com o veículo em calçadas, passeios"
+  },
+  {
+    "INFRAÇÃO": "581-92",
+    "DESCRIÇÃO": "Transitar com o veículo em ciclovias, ciclofaixas"
+  },
+  {
+    "INFRAÇÃO": "581-93",
+    "DESCRIÇÃO": "Transitar com o veículo em ajardinamentos, gramados, jardins públicos"
+  },
+  {
+    "INFRAÇÃO": "581-94",
+    "DESCRIÇÃO": "Transitar com o veículo em canteiros centrais/divisores de pista de rolamento"
+  },
+  {
+    "INFRAÇÃO": "581-95",
+    "DESCRIÇÃO": "Transitar com o veículo em ilhas, refúgios"
+  },
+  {
+    "INFRAÇÃO": "581-96",
+    "DESCRIÇÃO": "Transitar com o veículo em marcas de canalização"
+  },
+  {
+    "INFRAÇÃO": "581-97",
+    "DESCRIÇÃO": "Transitar com o veículo em acostamentos"
+  },
+  {
+    "INFRAÇÃO": "581-98",
+    "DESCRIÇÃO": "Transitar com o veículo em passarelas"
+  },
+  {
+    "INFRAÇÃO": "582-70",
+    "DESCRIÇÃO": "Transitar em marcha ré, salvo na distância necessária a pequenas manobras"
+  },
+  {
+    "INFRAÇÃO": "583-50",
+    "DESCRIÇÃO": "Desobedecer às ordens emanadas da autorid compet de trânsito ou de seus agentes"
+  },
+  {
+    "INFRAÇÃO": "584-31",
+    "DESCRIÇÃO": "Deixar de indicar c/ antec, med gesto de braço/luz indicadora, início da marcha"
+  },
+  {
+    "INFRAÇÃO": "584-32",
+    "DESCRIÇÃO": "Deixar de indicar c/ antec, med gesto de braço/luz indicadora, manobra de parar"
+  },
+  {
+    "INFRAÇÃO": "584-33",
+    "DESCRIÇÃO": "Deixar de indicar c/ antec, med gesto de braço/luz indicadora, mudança direção"
+  },
+  {
+    "INFRAÇÃO": "584-34",
+    "DESCRIÇÃO": "Deixar de indicar c/ antec, med gesto de braço/luz indicadora, mudança de faixa"
+  },
+  {
+    "INFRAÇÃO": "585-11",
+    "DESCRIÇÃO": "Deixar de deslocar c/antecedência veíc p/ faixa mais à esquerda qdo for manobrar"
+  },
+  {
+    "INFRAÇÃO": "585-12",
+    "DESCRIÇÃO": "Deixar de deslocar c/antecedência veíc p/ faixa mais à direita qdo for manobrar"
+  },
+  {
+    "INFRAÇÃO": "586-00",
+    "DESCRIÇÃO": "Deixar de dar passagem pela esquerda quando solicitado"
+  },
+  {
+    "INFRAÇÃO": "587-80",
+    "DESCRIÇÃO": "Ultrapassar pela direita, salvo qdo veíc da frente der sinal p/ entrar esquerda"
+  },
+  {
+    "INFRAÇÃO": "588-60",
+    "DESCRIÇÃO": "Ultrap pela direita veíc transp colet/escolar parado para emb/desemb passageiros"
+  },
+  {
+    "INFRAÇÃO": "589-40",
+    "DESCRIÇÃO": "Deixar de guardar a distância lateral de 1,50m ao passar/ultrapassar bicicleta"
+  },
+  {
+    "INFRAÇÃO": "590-80",
+    "DESCRIÇÃO": "Ultrapassar pelo acostamento"
+  },
+  {
+    "INFRAÇÃO": "591-61",
+    "DESCRIÇÃO": "Ultrapassar em interseções"
+  },
+  {
+    "INFRAÇÃO": "591-62",
+    "DESCRIÇÃO": "Ultrapassar em passagem de nível"
+  },
+  {
+    "INFRAÇÃO": "592-41",
+    "DESCRIÇÃO": "Ultrapassar pela contramão nas curvas sem visibilidade suficiente"
+  },
+  {
+    "INFRAÇÃO": "592-42",
+    "DESCRIÇÃO": "Ultrapassar pela contramão nos aclives ou declives, sem visibilidade suficiente"
+  },
+  {
+    "INFRAÇÃO": "593-20",
+    "DESCRIÇÃO": "Ultrapassar pela contramão nas faixas de pedestre"
+  },
+  {
+    "INFRAÇÃO": "594-01",
+    "DESCRIÇÃO": "Ultrapassar pela contramão nas pontes"
+  },
+  {
+    "INFRAÇÃO": "594-02",
+    "DESCRIÇÃO": "Ultrapassar pela contramão nos viadutos"
+  },
+  {
+    "INFRAÇÃO": "594-03",
+    "DESCRIÇÃO": "Ultrapassar pela contramão nos túneis"
+  },
+  {
+    "INFRAÇÃO": "595-91",
+    "DESCRIÇÃO": "Ultrapassar pela contramão veículo parado em fila junto sinal luminoso"
+  },
+  {
+    "INFRAÇÃO": "595-92",
+    "DESCRIÇÃO": "Ultrapassar pela contramão veículo parado em fila junto a cancela/porteira"
+  },
+  {
+    "INFRAÇÃO": "595-93",
+    "DESCRIÇÃO": "Ultrapassar pela contramão veículo parado em fila junto a cruzamento"
+  },
+  {
+    "INFRAÇÃO": "595-94",
+    "DESCRIÇÃO": "Ultrapassar pela contramão veíc parado em fila junto qq impedimento à circulação"
+  },
+  {
+    "INFRAÇÃO": "596-70",
+    "DESCRIÇÃO": "Ultrapassar pela contramão linha de divisão de fluxos opostos, contínua amarela"
+  },
+  {
+    "INFRAÇÃO": "597-50",
+    "DESCRIÇÃO": "Deixar de parar no acostamento à direita, p/ cruzar pista ou entrar à esquerda"
+  },
+  {
+    "INFRAÇÃO": "598-30",
+    "DESCRIÇÃO": "Ultrapassar veículo em movimento que integre cortejo/desfile/formação militar"
+  },
+  {
+    "INFRAÇÃO": "599-10",
+    "DESCRIÇÃO": "Executar operação de retorno em locais proibidos pela sinalização"
+  },
+  {
+    "INFRAÇÃO": "600-91",
+    "DESCRIÇÃO": "Executar operação de retorno nas curvas"
+  },
+  {
+    "INFRAÇÃO": "600-92",
+    "DESCRIÇÃO": "Executar operação de retorno nos aclives ou declives"
+  },
+  {
+    "INFRAÇÃO": "600-93",
+    "DESCRIÇÃO": "Executar operação de retorno nas pontes"
+  },
+  {
+    "INFRAÇÃO": "600-94",
+    "DESCRIÇÃO": "Executar operação de retorno nos viadutos"
+  },
+  {
+    "INFRAÇÃO": "600-95",
+    "DESCRIÇÃO": "Executar operação de retorno nos túneis"
+  },
+  {
+    "INFRAÇÃO": "601-71",
+    "DESCRIÇÃO": "Executar operação de retorno passando por cima de calçada, passeio"
+  },
+  {
+    "INFRAÇÃO": "601-72",
+    "DESCRIÇÃO": "Executar operação de retorno passando por cima de ilha, refúgio"
+  },
+  {
+    "INFRAÇÃO": "601-73",
+    "DESCRIÇÃO": "Executar operação de retorno passando por cima de ajardinamento"
+  },
+  {
+    "INFRAÇÃO": "601-74",
+    "DESCRIÇÃO": "Executar operação de retorno passando por cima de canteiro de divisor de pista"
+  },
+  {
+    "INFRAÇÃO": "601-75",
+    "DESCRIÇÃO": "Executar operação de retorno passando por cima de faixa de pedestres"
+  },
+  {
+    "INFRAÇÃO": "601-76",
+    "DESCRIÇÃO": "Executar operação de retorno passando por cima de faixa de veíc não motorizados"
+  },
+  {
+    "INFRAÇÃO": "602-50",
+    "DESCRIÇÃO": "Executar retorno nas interseções, entrando na contramão da via transversal"
+  },
+  {
+    "INFRAÇÃO": "603-30",
+    "DESCRIÇÃO": "Executar retorno c/prejuízo da circulação/segurança ainda que em local permitido"
+  },
+  {
+    "INFRAÇÃO": "604-11",
+    "DESCRIÇÃO": "Executar operação de conversão à direita em local proibido pela sinalização"
+  },
+  {
+    "INFRAÇÃO": "604-12",
+    "DESCRIÇÃO": "Executar operação de conversão à esquerda em local proibido pela sinalização"
+  },
+  {
+    "INFRAÇÃO": "605-00",
+    "DESCRIÇÃO": "Avançar o sinal vermelho do semáforo ou da parada obrigatória."
+  },
+  {
+    "INFRAÇÃO": "605-03",
+    "DESCRIÇÃO": "Avançar o sinal vermelho do semáforo, exc houver sinaliz perm livre conv à direita - fisc eletrônica"
+  },
+  {
+    "INFRAÇÃO": "605-01",
+    "DESCRIÇÃO": "Avançar o sinal vermelho do semáforo, exc onde houver sinaliz que perm livre conv à dir"
+  },
+  {
+    "INFRAÇÃO": "605-02",
+    "DESCRIÇÃO": "Avançar o sinal de parada obrigatória"
+  },
+  {
+    "INFRAÇÃO": "606-80",
+    "DESCRIÇÃO": "Transpor, sem autorização bloqueio viário com ou sem sinalização ou dispositivos auxiliares, deixar de adentrar às áreas destinadas a pesagem de veículos ou evadir-se para não efetuar o pagamento."
+  },
+  {
+    "INFRAÇÃO": "606-81",
+    "DESCRIÇÃO": "Transpor bloqueio viário com ou sem sinalização ou dispositivos auxiliares"
+  },
+  {
+    "INFRAÇÃO": "606-82",
+    "DESCRIÇÃO": "Deixar de adentrar às áreas destinadas à pesagem de veículos"
+  },
+  {
+    "INFRAÇÃO": "606-83",
+    "DESCRIÇÃO": "Evadir-se para não efetuar o pagamento do pedágio"
+  },
+  {
+    "INFRAÇÃO": "607-60",
+    "DESCRIÇÃO": "Transpor bloqueio viário policial"
+  },
+  {
+    "INFRAÇÃO": "608-40",
+    "DESCRIÇÃO": "Ultrapassar veículos em fila, parados em razão de sinal luminoso, cancela, bloqueio viário parcial ou qualquer outro obstáculo, com exceção dos veículos não motorizados."
+  },
+  {
+    "INFRAÇÃO": "608-41",
+    "DESCRIÇÃO": "Ultrapassar veículos motorizados em fila, parados em razão de sinal luminoso"
+  },
+  {
+    "INFRAÇÃO": "608-42",
+    "DESCRIÇÃO": "Ultrapassar veículos motorizados em fila, parados em razão de cancela"
+  },
+  {
+    "INFRAÇÃO": "608-43",
+    "DESCRIÇÃO": "Ultrapassar veíc motorizados em fila parados em razão de bloqueio viário parcial"
+  },
+  {
+    "INFRAÇÃO": "608-44",
+    "DESCRIÇÃO": "Ultrapassar veículos motorizados em fila, parados em razão de qualquer obstáculo"
+  },
+  {
+    "INFRAÇÃO": "609-20",
+    "DESCRIÇÃO": "Deixar de parar o veículo antes de transpor linha férrea"
+  },
+  {
+    "INFRAÇÃO": "613-00",
+    "DESCRIÇÃO": "Deixar de dar preferência a pedestre/veic ñ mot que ñ haja concluído a travessia"
+  },
+  {
+    "INFRAÇÃO": "615-70",
+    "DESCRIÇÃO": "Deixar de dar preferência a pedestre/veic ñ mot qdo iniciada travessia s/sinaliz"
+  },
+  {
+    "INFRAÇÃO": "611-40",
+    "DESCRIÇÃO": "Deixar de parar sempre que a marcha for interceptada por agrupamento de veículos"
+  },
+  {
+    "INFRAÇÃO": "612-20",
+    "DESCRIÇÃO": "Deixar de dar preferência a pedestre/veic ñ motorizado na faixa a ele destinada"
+  },
+  {
+    "INFRAÇÃO": "610-60",
+    "DESCRIÇÃO": "Deixar de parar sempre que a marcha for interceptada por agrupamento de pessoas"
+  },
+  {
+    "INFRAÇÃO": "621-10",
+    "DESCRIÇÃO": "Transitar em velocidade superior a máxima permitida, medida por instrumento ou equipamento hábil em rodovias, vias de trânsito rápido e vias arteriais quando a veloc for superior à máxima em até 20%."
+  },
+  {
+    "INFRAÇÃO": "622-00",
+    "DESCRIÇÃO": "Transitar em velocidade superior a máxima permitida, medida por instrumento ou equipamento hábil em rodovias, vias de trânsito rápido e vias arteriais quando a veloc for sup à máxima em mais de 20%."
+  },
+  {
+    "INFRAÇÃO": "623-80",
+    "DESCRIÇÃO": "Transitar em veloc sup à máxima permitida, medida por instrumento ou equipamento, em vias que não sejam rodovias, vias de trânsito rápido e vias arteriais, quando a veloc for sup a máxima em até 50%."
+  },
+  {
+    "INFRAÇÃO": "624-60",
+    "DESCRIÇÃO": "Transitar em veloc sup à máxima permitida,medida por instrumento ou equipamento,em vias que não sejam rodovias,vias de trânsito rápido e vias arteriais, quando a veloc for sup a máxima em mais de 50%"
+  },
+  {
+    "INFRAÇÃO": "625-40",
+    "DESCRIÇÃO": "Transitar em velocidade inferior à metade da máxima da via, salvo faixa direita"
+  },
+  {
+    "INFRAÇÃO": "626-20",
+    "DESCRIÇÃO": "Deixar de reduzir a veloc qdo se aproximar de passeata/aglomeração/desfile/etc"
+  },
+  {
+    "INFRAÇÃO": "627-00",
+    "DESCRIÇÃO": "Deixar de reduzir a veloc onde o trânsito esteja sendo controlado pelo agente"
+  },
+  {
+    "INFRAÇÃO": "628-91",
+    "DESCRIÇÃO": "Deixar de reduzir a velocidade do veículo ao aproximar-se da guia da calçada"
+  },
+  {
+    "INFRAÇÃO": "628-92",
+    "DESCRIÇÃO": "Deixar de reduzir a velocidade do veículo ao aproximar-se do acostamento"
+  },
+  {
+    "INFRAÇÃO": "629-70",
+    "DESCRIÇÃO": "Deixar de reduzir velocidade do veículo ao aproximar-se interseção ñ sinalizada"
+  },
+  {
+    "INFRAÇÃO": "630-00",
+    "DESCRIÇÃO": "Deixar reduzir velocidade nas vias rurais cuja faixa domínio não esteja cercada"
+  },
+  {
+    "INFRAÇÃO": "631-90",
+    "DESCRIÇÃO": "Deixar de reduzir a velocidade nos trechos em curva de pequeno raio"
+  },
+  {
+    "INFRAÇÃO": "632-70",
+    "DESCRIÇÃO": "Deixar de reduzir veloc ao aproximar local sinaliz advert de obras/trabalhadores"
+  },
+  {
+    "INFRAÇÃO": "633-50",
+    "DESCRIÇÃO": "Deixar de reduzir a velocidade sob chuva/neblina/cerração/ventos fortes"
+  },
+  {
+    "INFRAÇÃO": "634-30",
+    "DESCRIÇÃO": "Deixar de reduzir a velocidade quando houver má visibilidade"
+  },
+  {
+    "INFRAÇÃO": "635-10",
+    "DESCRIÇÃO": "Deixar de reduzir veloc qdo pavimento se apresentar escorreg/defeituoso/avariado"
+  },
+  {
+    "INFRAÇÃO": "636-00",
+    "DESCRIÇÃO": "Deixar de reduzir a velocidade à aproximação de animais na pista"
+  },
+  {
+    "INFRAÇÃO": "637-80",
+    "DESCRIÇÃO": "Deixar de reduzir a velocidade de forma compatível com a segurança, em declive"
+  },
+  {
+    "INFRAÇÃO": "638-60",
+    "DESCRIÇÃO": "Deixar de reduzir veloc de forma compatível c/ segurança ao ultrapassar ciclista"
+  },
+  {
+    "INFRAÇÃO": "639-41",
+    "DESCRIÇÃO": "Deixar de reduzir a velocidade nas proximidades de escolas"
+  },
+  {
+    "INFRAÇÃO": "639-42",
+    "DESCRIÇÃO": "Deixar de reduzir a velocidade nas proximidades de hospitais"
+  },
+  {
+    "INFRAÇÃO": "639-43",
+    "DESCRIÇÃO": "Deixar de reduzir veloc na proxim estação embarque/desembarque passageiros"
+  },
+  {
+    "INFRAÇÃO": "639-44",
+    "DESCRIÇÃO": "Deixar de reduzir veloc onde haja intensa movimentação de pedestres"
+  },
+  {
+    "INFRAÇÃO": "640-80",
+    "DESCRIÇÃO": "Portar no veículo placas de identificação em desacordo c/ especif/modelo Contran"
+  },
+  {
+    "INFRAÇÃO": "641-60",
+    "DESCRIÇÃO": "Confec/distribuir/colocar veíc próprio/terceiro placa identif desacordo Contran"
+  },
+  {
+    "INFRAÇÃO": "642-40",
+    "DESCRIÇÃO": "Deixar de manter ligado em emerg sist ilum vermelha intermitente ainda q parado"
+  },
+  {
+    "INFRAÇÃO": "643-21",
+    "DESCRIÇÃO": "Transitar com farol desregulado perturbando visão outro condutor"
+  },
+  {
+    "INFRAÇÃO": "643-22",
+    "DESCRIÇÃO": "Transitar com o facho de luz alta perturbando visão outro condutor"
+  },
+  {
+    "INFRAÇÃO": "644-00",
+    "DESCRIÇÃO": "Fazer uso do facho de luz alta dos faróis em vias providas de iluminação pública"
+  },
+  {
+    "INFRAÇÃO": "645-91",
+    "DESCRIÇÃO": "Deixar de sinalizar via p/ tornar visível local qdo tiver remover veíc da pista"
+  },
+  {
+    "INFRAÇÃO": "645-92",
+    "DESCRIÇÃO": "Deixar de sinalizar a via p/ tornar visível o local qdo permanecer acostamento"
+  },
+  {
+    "INFRAÇÃO": "645-90",
+    "DESCRIÇÃO": "Deixar de sinalizar a via, de forma a prevenir os demais condutores e, à noite, quando tiver de remover o veículo da pista de rolamento ou permanecer no acostamento."
+  },
+  {
+    "INFRAÇÃO": "646-70",
+    "DESCRIÇÃO": "Deixar de sinalizar a via p/ tornar visível o local qdo a carga for derramada"
+  },
+  {
+    "INFRAÇÃO": "647-50",
+    "DESCRIÇÃO": "Deixar de retirar qualquer objeto utilizado para sinalização temporária da via"
+  },
+  {
+    "INFRAÇÃO": "648-30",
+    "DESCRIÇÃO": "Usar buzina que não a de toque breve como advertência a pedestre ou condutores"
+  },
+  {
+    "INFRAÇÃO": "649-10",
+    "DESCRIÇÃO": "Usar buzina prolongada e sucessivamente a qualquer pretexto"
+  },
+  {
+    "INFRAÇÃO": "650-50",
+    "DESCRIÇÃO": "Usar buzina entre as vinte e duas e as seis horas"
+  },
+  {
+    "INFRAÇÃO": "651-30",
+    "DESCRIÇÃO": "Usar buzina em locais e horários proibidos pela sinalização"
+  },
+  {
+    "INFRAÇÃO": "652-10",
+    "DESCRIÇÃO": "Usar buzina em desacordo c/ os padrões e freqüências estabelecidas pelo Contran"
+  },
+  {
+    "INFRAÇÃO": "653-00",
+    "DESCRIÇÃO": "Usar no veículo equip c/ som em volume/freqüência não autorizados pelo Contran"
+  },
+  {
+    "INFRAÇÃO": "654-80",
+    "DESCRIÇÃO": "Usar no veíc alarme/aparelho produz som perturbe sossego púb desac norma Contran"
+  },
+  {
+    "INFRAÇÃO": "655-61",
+    "DESCRIÇÃO": "Conduzir o veículo com o lacre de identificação violado/falsificado"
+  },
+  {
+    "INFRAÇÃO": "655-62",
+    "DESCRIÇÃO": "Conduzir o veículo com a inscrição do chassi violada/falsificado"
+  },
+  {
+    "INFRAÇÃO": "655-63",
+    "DESCRIÇÃO": "Conduzir o veículo com o selo violado/falsificado"
+  },
+  {
+    "INFRAÇÃO": "655-64",
+    "DESCRIÇÃO": "Conduzir o veículo com a placa violada/falsificado"
+  },
+  {
+    "INFRAÇÃO": "655-65",
+    "DESCRIÇÃO": "Conduzir o veículo com qualquer outro elem de identificação violado/falsificado"
+  },
+  {
+    "INFRAÇÃO": "656-40",
+    "DESCRIÇÃO": "Conduzir o veículo transportando passageiros em compartimento de carga"
+  },
+  {
+    "INFRAÇÃO": "657-20",
+    "DESCRIÇÃO": "Conduzir o veículo com dispositivo antirradar"
+  },
+  {
+    "INFRAÇÃO": "658-00",
+    "DESCRIÇÃO": "Conduzir o veículo sem qualquer uma das placas de identificação"
+  },
+  {
+    "INFRAÇÃO": "659-91",
+    "DESCRIÇÃO": "Conduzir o veículo que não esteja registrado"
+  },
+  {
+    "INFRAÇÃO": "659-92",
+    "DESCRIÇÃO": "Conduzir o veículo registrado que não esteja devidamente licenciado"
+  },
+  {
+    "INFRAÇÃO": "660-20",
+    "DESCRIÇÃO": "Conduzir o veículo com qualquer uma das placas sem legibilidade e visibilidade"
+  },
+  {
+    "INFRAÇÃO": "661-01",
+    "DESCRIÇÃO": "Conduzir o veículo com a cor alterada"
+  },
+  {
+    "INFRAÇÃO": "661-02",
+    "DESCRIÇÃO": "Conduzir o veículo com característica alterada"
+  },
+  {
+    "INFRAÇÃO": "662-90",
+    "DESCRIÇÃO": "Conduzir veículo s/ ter sido submetido à inspeção seg veicular, qdo obrigatória"
+  },
+  {
+    "INFRAÇÃO": "663-71",
+    "DESCRIÇÃO": "Conduzir o veículo sem equipamento obrigatório"
+  },
+  {
+    "INFRAÇÃO": "663-72",
+    "DESCRIÇÃO": "Conduzir o veículo com equipamento obrigatório ineficiente/inoperante"
+  },
+  {
+    "INFRAÇÃO": "664-50",
+    "DESCRIÇÃO": "Conduzir o veículo com equip obrigatório em desacordo com o estab pelo Contran"
+  },
+  {
+    "INFRAÇÃO": "665-31",
+    "DESCRIÇÃO": "Conduzir o veículo com descarga livre"
+  },
+  {
+    "INFRAÇÃO": "665-32",
+    "DESCRIÇÃO": "Conduzir o veículo com silenciador de motor defeituoso/deficiente/inoperante"
+  },
+  {
+    "INFRAÇÃO": "666-10",
+    "DESCRIÇÃO": "Conduzir o veículo com equipamento ou acessório proibido"
+  },
+  {
+    "INFRAÇÃO": "667-00",
+    "DESCRIÇÃO": "Conduzir o veículo c/ equip do sistema de iluminação e de sinalização alterados"
+  },
+  {
+    "INFRAÇÃO": "668-80",
+    "DESCRIÇÃO": "Conduzir veíc c/ registrador instan inalt de velocidade/tempo viciado/defeituoso"
+  },
+  {
+    "INFRAÇÃO": "669-61",
+    "DESCRIÇÃO": "Conduzir c/ inscr/adesivo/legenda/símbolo afixado pára-brisa e extensão traseira"
+  },
+  {
+    "INFRAÇÃO": "669-62",
+    "DESCRIÇÃO": "Conduzir c/ inscr/adesivo/legenda/símbolo pintado pára-brisa e extensão traseira"
+  },
+  {
+    "INFRAÇÃO": "670-00",
+    "DESCRIÇÃO": "Conduzir veíc com vidro total/parcialmente coberto por película, painéis/pintura"
+  },
+  {
+    "INFRAÇÃO": "671-80",
+    "DESCRIÇÃO": "Conduzir o veículo com cortinas ou persianas fechadas"
+  },
+  {
+    "INFRAÇÃO": "672-61",
+    "DESCRIÇÃO": "Conduzir o veículo em mau estado de conservação, comprometendo a segurança"
+  },
+  {
+    "INFRAÇÃO": "672-62",
+    "DESCRIÇÃO": "Conduzir o veículo reprovado na avaliação de inspeção de segurança"
+  },
+  {
+    "INFRAÇÃO": "672-63",
+    "DESCRIÇÃO": "Conduzir o veículo reprovado na avaliação de emissão de poluentes e ruído"
+  },
+  {
+    "INFRAÇÃO": "673-40",
+    "DESCRIÇÃO": "Conduzir o veículo sem acionar o limpador de pára-brisa sob chuva"
+  },
+  {
+    "INFRAÇÃO": "674-20",
+    "DESCRIÇÃO": "Conduzir o veículo sem portar a autorização para condução de escolares"
+  },
+  {
+    "INFRAÇÃO": "675-00",
+    "DESCRIÇÃO": "Conduzir o veíc de carga c/ falta inscrição da tara e demais previstas no CTB"
+  },
+  {
+    "INFRAÇÃO": "676-90",
+    "DESCRIÇÃO": "Conduzir veíc c/ defeito no sist de iluminação, sinaliz ou lâmpadas queimadas"
+  },
+  {
+    "INFRAÇÃO": "677-70",
+    "DESCRIÇÃO": "Transitar com o veículo danificando a via, suas instalações e equipamentos"
+  },
+  {
+    "INFRAÇÃO": "678-51",
+    "DESCRIÇÃO": "Transitar com veículo derramando a carga que esteja transportando"
+  },
+  {
+    "INFRAÇÃO": "678-52",
+    "DESCRIÇÃO": "Transitar com veículo lançando a carga que esteja transportando"
+  },
+  {
+    "INFRAÇÃO": "678-53",
+    "DESCRIÇÃO": "Transitar com veículo arrastando a carga que esteja transportando"
+  },
+  {
+    "INFRAÇÃO": "678-50",
+    "DESCRIÇÃO": "Transitar com o veículo derramando, lançando ou arrastando sobre a via, carga que esteja transportando."
+  },
+  {
+    "INFRAÇÃO": "679-30",
+    "DESCRIÇÃO": "Transitar com veíc derramando/lançando combustível/lubrif que esteja utilizando"
+  },
+  {
+    "INFRAÇÃO": "680-70",
+    "DESCRIÇÃO": "Transitar c/veíc derraman/lançando/arrastando objeto possa acarretar risco acid"
+  },
+  {
+    "INFRAÇÃO": "681-50",
+    "DESCRIÇÃO": "Transitar com veículo produzindo fumaça, gases ou partículas em desacordo com o CONTRAN"
+  },
+  {
+    "INFRAÇÃO": "682-31",
+    "DESCRIÇÃO": "Transitar c/ veíc e/ou carga c/ dimensões superiores limite legal s/ autorização"
+  },
+  {
+    "INFRAÇÃO": "682-32",
+    "DESCRIÇÃO": "Transitar c/ veíc e/ou carga c/ dimensões superiores est p/sinalização s/autoriz"
+  },
+  {
+    "INFRAÇÃO": "682-30",
+    "DESCRIÇÃO": "Transitar com o veículo com suas dimensões ou de sua carga superiores aos limites estabelecidos legalmente ou pela sinalização, sem autorização."
+  },
+  {
+    "INFRAÇÃO": "683-11",
+    "DESCRIÇÃO": "Transitar com o veículo com excesso de peso PBT/PBTC"
+  },
+  {
+    "INFRAÇÃO": "683-12",
+    "DESCRIÇÃO": "Transitar com o veículo com excesso de peso - Por Eixo"
+  },
+  {
+    "INFRAÇÃO": "683-13",
+    "DESCRIÇÃO": "Transitar com o veículo com excesso de peso - PBT/PBTC e Por Eixo"
+  },
+  {
+    "INFRAÇÃO": "684-01",
+    "DESCRIÇÃO": "Transitar em desacordo c/ autorização expedida p/veículo c/ dimensões excedentes"
+  },
+  {
+    "INFRAÇÃO": "684-02",
+    "DESCRIÇÃO": "Transitar com autorização vencida, expedida p/ veículo c/ dimensões excedentes"
+  },
+  {
+    "INFRAÇÃO": "685-80",
+    "DESCRIÇÃO": "Transitar com o veículo com lotação excedente"
+  },
+  {
+    "INFRAÇÃO": "686-61",
+    "DESCRIÇÃO": "Transitar efetuando transporte remunerado de pessoas qdo ñ licenciado p/esse fim"
+  },
+  {
+    "INFRAÇÃO": "686-62",
+    "DESCRIÇÃO": "Transitar efetuando transporte remunerado de bens qdo não licenciado p/ esse fim"
+  },
+  {
+    "INFRAÇÃO": "686-60",
+    "DESCRIÇÃO": "Transitar com o veículo efetuando transporte remunerado de pessoas de pessoas ou bens, quando não for licenciado para esse fim, salvo casos de força maior ou com permissão da Autoridade competente."
+  },
+  {
+    "INFRAÇÃO": "687-41",
+    "DESCRIÇÃO": "Transitar com o veículo desligado em declive"
+  },
+  {
+    "INFRAÇÃO": "687-42",
+    "DESCRIÇÃO": "Transitar com o veículo desengrenado em declive"
+  },
+  {
+    "INFRAÇÃO": "688-20",
+    "DESCRIÇÃO": "Transitar com o veículo excedendo a CMT em até 600 kg"
+  },
+  {
+    "INFRAÇÃO": "689-00",
+    "DESCRIÇÃO": "Transitar com o veículo excedendo a CMT entre 601 e 1.000 kg"
+  },
+  {
+    "INFRAÇÃO": "690-40",
+    "DESCRIÇÃO": "Transitar com o veículo excedendo a CMT acima de 1.000 kg"
+  },
+  {
+    "INFRAÇÃO": "691-20",
+    "DESCRIÇÃO": "Conduzir veículo sem os documentos de porte obrigatório referidos no CTB"
+  },
+  {
+    "INFRAÇÃO": "692-01",
+    "DESCRIÇÃO": "Deixar de efetuar registro do veículo em 30 dias, qdo for transf apropriedade"
+  },
+  {
+    "INFRAÇÃO": "692-04",
+    "DESCRIÇÃO": "Deixar de efetuar registro de veículo em 30 dias, qdo houver mudança decategoria"
+  },
+  {
+    "INFRAÇÃO": "692-02",
+    "DESCRIÇÃO": "Deixar de efetuar reg do veíc em 30 dias, qdo mudar o munic de domicilio/resid"
+  },
+  {
+    "INFRAÇÃO": "692-03",
+    "DESCRIÇÃO": "Deixar de efetuar reg de veíc em 30 dias, qdo for alterada qquer caract do veic"
+  },
+  {
+    "INFRAÇÃO": "693-91",
+    "DESCRIÇÃO": "Falsificar ou adulterar documento de habilitação"
+  },
+  {
+    "INFRAÇÃO": "693-92",
+    "DESCRIÇÃO": "Falsificar ou adulterar documento de identificação do veículo"
+  },
+  {
+    "INFRAÇÃO": "694-71",
+    "DESCRIÇÃO": "Conduzir pessoas nas partes externas do veículo"
+  },
+  {
+    "INFRAÇÃO": "694-72",
+    "DESCRIÇÃO": "Conduzir animais nas partes externas do veículo"
+  },
+  {
+    "INFRAÇÃO": "694-73",
+    "DESCRIÇÃO": "Conduzir carga nas partes externas do veículo"
+  },
+  {
+    "INFRAÇÃO": "694-70",
+    "DESCRIÇÃO": "Conduzir pessoas, animais ou cargas nas partes externas do veículo salvo nos casos devidamente autorizados."
+  },
+  {
+    "INFRAÇÃO": "695-50",
+    "DESCRIÇÃO": "Rebocar outro veículo com cabo flexível ou corda"
+  },
+  {
+    "INFRAÇÃO": "696-30",
+    "DESCRIÇÃO": "Trans c/veíc desac c/especificação/falta de inscr/simbologia necessária identif"
+  },
+  {
+    "INFRAÇÃO": "697-10",
+    "DESCRIÇÃO": "Recusar-se a entregar CNH/CRV/CRLV/ outros documentos"
+  },
+  {
+    "INFRAÇÃO": "698-00",
+    "DESCRIÇÃO": "Retirar do local veículo legalmente retido para regularização, sem permissão"
+  },
+  {
+    "INFRAÇÃO": "699-80",
+    "DESCRIÇÃO": "Deixar responsável de promover baixa registro de veíc irrecuperável/desmontado"
+  },
+  {
+    "INFRAÇÃO": "700-52",
+    "DESCRIÇÃO": "Deixar de atualizar o cadastro de habilitação do condutor"
+  },
+  {
+    "INFRAÇÃO": "700-51",
+    "DESCRIÇÃO": "Deixar de atualizar o cadastro de registro do veículo"
+  },
+  {
+    "INFRAÇÃO": "701-31",
+    "DESCRIÇÃO": "Fazer falsa declaração de domicílio para fins de registro/licenciamento"
+  },
+  {
+    "INFRAÇÃO": "701-32",
+    "DESCRIÇÃO": "Fazer falsa declaração de domicílio para fins de habilitação"
+  },
+  {
+    "INFRAÇÃO": "702-10",
+    "DESCRIÇÃO": "Deixar seguradora de comunicar ocorrência perda total veíc e devolver placas/doc"
+  },
+  {
+    "INFRAÇÃO": "703-03",
+    "DESCRIÇÃO": "Conduzir motocicleta, motoneta ou ciclomotor sem vestuário de acordo com normas apr pelo Contran"
+  },
+  {
+    "INFRAÇÃO": "703-01",
+    "DESCRIÇÃO": "Conduzir motocicleta, motoneta ou ciclomotor sem capacete de segurança"
+  },
+  {
+    "INFRAÇÃO": "703-02",
+    "DESCRIÇÃO": "Conduzir motocicleta, motoneta ou ciclomotor com capacete de segurança sem viseira ou óculos de proteção."
+  },
+  {
+    "INFRAÇÃO": "704-83",
+    "DESCRIÇÃO": "Conduzir motocicleta/motoneta/ciclomotor transportando pas. fora do assento"
+  },
+  {
+    "INFRAÇÃO": "704-81",
+    "DESCRIÇÃO": "Conduzir motocicleta, motoneta e ciclomotor transportando passageiro s/ capacete"
+  },
+  {
+    "INFRAÇÃO": "704-80",
+    "DESCRIÇÃO": "Conduzir motocicleta, motoneta ou ciclomotor transportando passageiro, sem usar capacete de segurança ou óculos de proteção ou fora do assento suplementar colocado atrás do condutor ou com carro lat"
+  },
+  {
+    "INFRAÇÃO": "704-82",
+    "DESCRIÇÃO": "Conduzir motocicleta, motoneta ou ciclomotor transportando passageiro com capacete de segurança sem viseira ou óculos de proteção."
+  },
+  {
+    "INFRAÇÃO": "705-61",
+    "DESCRIÇÃO": "Conduzir motoc/moton/ciclomotor fazendo malabarismo/equilibrando-se em uma roda"
+  },
+  {
+    "INFRAÇÃO": "705-60",
+    "DESCRIÇÃO": "Conduzir motocicleta, motoneta ciclomotor e ciclo fazendo malabarismo ou equilibrando-se apenas em apenas uma das rodas"
+  },
+  {
+    "INFRAÇÃO": "705-62",
+    "DESCRIÇÃO": "Conduzir ciclo fazendo malabarismo ou equilibrando-se em uma roda"
+  },
+  {
+    "INFRAÇÃO": "706-40",
+    "DESCRIÇÃO": "Conduzir motocicleta, motoneta e ciclomotor com os faróis apagados"
+  },
+  {
+    "INFRAÇÃO": "707-22",
+    "DESCRIÇÃO": "Conduzir motoc/moton/ciclom transp criança s/ condição cuidar própria segurança"
+  },
+  {
+    "INFRAÇÃO": "707-21",
+    "DESCRIÇÃO": "Conduzir motocicleta/motoneta/ciclomotor transportando criança menor de 10 anos de idade"
+  },
+  {
+    "INFRAÇÃO": "707-20",
+    "DESCRIÇÃO": "Conduzir motocicleta, motoneta e ciclomotor transportando criança menor de sete anos ou que não tenha, nas circunstâncias, condição de cuidar de sua própria segurança."
+  },
+  {
+    "INFRAÇÃO": "708-00",
+    "DESCRIÇÃO": "Conduzir motocicleta, motoneta e ciclomotor rebocando outro veículo"
+  },
+  {
+    "INFRAÇÃO": "709-92",
+    "DESCRIÇÃO": "Conduzir ciclo sem segurar o guidom com ambas as mãos"
+  },
+  {
+    "INFRAÇÃO": "709-90",
+    "DESCRIÇÃO": "Conduzir motocicleta, motoneta, ciclomotor e ciclo sem segurar o guidom com ambas as mãos, salvo eventualmente para indicação de manobras."
+  },
+  {
+    "INFRAÇÃO": "709-91",
+    "DESCRIÇÃO": "Conduzir motocicleta/motoneta/ciclomotor sem segurar o guidom com ambas as mãos"
+  },
+  {
+    "INFRAÇÃO": "710-21",
+    "DESCRIÇÃO": "Conduzir motocicleta, motoneta e ciclomotor transportando carga incompatível"
+  },
+  {
+    "INFRAÇÃO": "710-22",
+    "DESCRIÇÃO": "Conduzir ciclo transportando carga incompatível"
+  },
+  {
+    "INFRAÇÃO": "710-23",
+    "DESCRIÇÃO": "Conduzir motoc/moton/ transportando carga em desacordo c/ § 2º do Art 139-A CTB"
+  },
+  {
+    "INFRAÇÃO": "711-00",
+    "DESCRIÇÃO": "Conduzir ciclo transportando passageiro fora da garupa/assento a ele destinado"
+  },
+  {
+    "INFRAÇÃO": "712-91",
+    "DESCRIÇÃO": "Conduzir ciclo via de trâns rápido ou rodovia salvo se houver acostam/fx própria"
+  },
+  {
+    "INFRAÇÃO": "712-92",
+    "DESCRIÇÃO": "Conduzir ciclomotor em via de trânsito rápido"
+  },
+  {
+    "INFRAÇÃO": "712-93",
+    "DESCRIÇÃO": "Conduzir ciclomotor em rodovia salvo se houver acostamento ou faixa própria"
+  },
+  {
+    "INFRAÇÃO": "713-70",
+    "DESCRIÇÃO": "Conduzir ciclo transportando criança s/ condição de cuidar própria segurança"
+  },
+  {
+    "INFRAÇÃO": "714-50",
+    "DESCRIÇÃO": "Utilizar a via para depósito de mercadorias, materiais ou equipamentos"
+  },
+  {
+    "INFRAÇÃO": "715-31",
+    "DESCRIÇÃO": "Deixar de sinalizar obstáculo à circulação/segurança calçada/pista-s/agravamento"
+  },
+  {
+    "INFRAÇÃO": "715-32",
+    "DESCRIÇÃO": "Obstaculizar a via indevidamente-s/agravamento"
+  },
+  {
+    "INFRAÇÃO": "716-11",
+    "DESCRIÇÃO": "Deixar de sinalizar obstáculo circulação/segurança calçada/pista-agravamento 2X"
+  },
+  {
+    "INFRAÇÃO": "716-12",
+    "DESCRIÇÃO": "Obstaculizar a via indevidamente-agravamento 2X"
+  },
+  {
+    "INFRAÇÃO": "717-01",
+    "DESCRIÇÃO": "Deixar de sinalizar obstáculo circulação/segurança calçada/pista-agravamento 3X"
+  },
+  {
+    "INFRAÇÃO": "717-02",
+    "DESCRIÇÃO": "Obstaculizar a via indevidamente-agravamento 3X"
+  },
+  {
+    "INFRAÇÃO": "718-81",
+    "DESCRIÇÃO": "Deixar de sinalizar obstáculo circulação/segurança calçada/pista-agravamento 4X"
+  },
+  {
+    "INFRAÇÃO": "718-82",
+    "DESCRIÇÃO": "Obstaculizar a via indevidamente-agravamento 4X"
+  },
+  {
+    "INFRAÇÃO": "719-61",
+    "DESCRIÇÃO": "Deixar de sinalizar obstáculo circulação/segurança calçada/pista-agravamento 5X"
+  },
+  {
+    "INFRAÇÃO": "719-62",
+    "DESCRIÇÃO": "Obstaculizar a via indevidamente-agravamento 5X"
+  },
+  {
+    "INFRAÇÃO": "720-01",
+    "DESCRIÇÃO": "Deixar de conduzir pelo bordo pista em fila única veíc tração/propulsão humana"
+  },
+  {
+    "INFRAÇÃO": "720-02",
+    "DESCRIÇÃO": "Deixar de conduzir pelo bordo da pista em fila única veículo de tração animal"
+  },
+  {
+    "INFRAÇÃO": "721-80",
+    "DESCRIÇÃO": "Transportar em veíc destinado transp passageiros carga excedente desac art.109"
+  },
+  {
+    "INFRAÇÃO": "722-61",
+    "DESCRIÇÃO": "Deixar de manter acesas à noite as luzes posição qdo o veículo estiver parado"
+  },
+  {
+    "INFRAÇÃO": "722-62",
+    "DESCRIÇÃO": "Deixar de manter acesas à noite as luzes de posição veic fazendo carga/descarg a"
+  },
+  {
+    "INFRAÇÃO": "723-40",
+    "DESCRIÇÃO": "Em movimento, deixar de manter acesa a luz baixa durante à noite"
+  },
+  {
+    "INFRAÇÃO": "724-22",
+    "DESCRIÇÃO": "Em movimento de dia, deixar de manter acesa luz baixa sob chuva, neblina ou cerração"
+  },
+  {
+    "INFRAÇÃO": "724-21",
+    "DESCRIÇÃO": "Em movimento de dia, deixar de manter acesa luz baixa em túneis"
+  },
+  {
+    "INFRAÇÃO": "725-00",
+    "DESCRIÇÃO": "Em mov de dia, deixar de manter acesa luz baixa veíc transp coletivo faixas/pistas destinadas"
+  },
+  {
+    "INFRAÇÃO": "726-90",
+    "DESCRIÇÃO": "Em movimento de dia, deixar de manter acesa luz baixa de motocicletas/motonetas/ciclomotores"
+  },
+  {
+    "INFRAÇÃO": "727-70",
+    "DESCRIÇÃO": "Em mov deixar de manter acesas luzes de posição sob chuva forte/neblina/cerração"
+  },
+  {
+    "INFRAÇÃO": "728-50",
+    "DESCRIÇÃO": "Em movimento, deixar de manter a placa traseira iluminada à noite"
+  },
+  {
+    "INFRAÇÃO": "729-30",
+    "DESCRIÇÃO": "Utilizar o pisca-alerta, exceto em imobilizações ou situações de emergência"
+  },
+  {
+    "INFRAÇÃO": "730-70",
+    "DESCRIÇÃO": "Utilizar luz alta e baixa intermitente, exceto quando permitido pelo CTB"
+  },
+  {
+    "INFRAÇÃO": "731-50",
+    "DESCRIÇÃO": "Dirigir o veículo com o braço do lado de fora"
+  },
+  {
+    "INFRAÇÃO": "732-31",
+    "DESCRIÇÃO": "Dirigir o veículo transport pessoas à sua esquerda ou entre os braços e pernas"
+  },
+  {
+    "INFRAÇÃO": "732-32",
+    "DESCRIÇÃO": "Dirigir o veículo transport animais à sua esquerda ou entre os braços e pernas"
+  },
+  {
+    "INFRAÇÃO": "732-33",
+    "DESCRIÇÃO": "Dirigir o veículo transport volume à sua esquerda ou entre os braços e pernas"
+  },
+  {
+    "INFRAÇÃO": "733-10",
+    "DESCRIÇÃO": "Dirigir o veículo com incapacidade física ou mental temporária"
+  },
+  {
+    "INFRAÇÃO": "734-00",
+    "DESCRIÇÃO": "Dirigir o veíc usando calçado que ñ se firme nos pés/comprometa utiliz pedais"
+  },
+  {
+    "INFRAÇÃO": "735-80",
+    "DESCRIÇÃO": "Dirigir o veículo com apenas uma das mãos, exceto quando permitido pelo CTB"
+  },
+  {
+    "INFRAÇÃO": "736-60",
+    "DESCRIÇÃO": "Dirigir o veículo utilizando-se de fones nos ouvidos conectados a aparelhagem sonora ou de telefone celular."
+  },
+  {
+    "INFRAÇÃO": "736-61",
+    "DESCRIÇÃO": "Dirigir o veículo utilizando-se de fones nos ouvidos conec a aparelhagem sonora"
+  },
+  {
+    "INFRAÇÃO": "736-62",
+    "DESCRIÇÃO": "Dirigir veículo utilizando-se de telefone celular"
+  },
+  {
+    "INFRAÇÃO": "737-40",
+    "DESCRIÇÃO": "Bloquear a via com veículo"
+  },
+  {
+    "INFRAÇÃO": "738-20",
+    "DESCRIÇÃO": "É proib ao pedestre permanecer/andar pista, exceto p/ cruzá-las onde permitido"
+  },
+  {
+    "INFRAÇÃO": "739-01",
+    "DESCRIÇÃO": "É proibido ao pedestre cruzar pista de rolamento de viaduto exc onde permitido"
+  },
+  {
+    "INFRAÇÃO": "739-02",
+    "DESCRIÇÃO": "É proibido ao pedestre cruzar pista de rolamento de ponte exceto onde permitido"
+  },
+  {
+    "INFRAÇÃO": "739-03",
+    "DESCRIÇÃO": "É proibido ao pedestre cruzar pista de rolamento de túneis exceto onde permitido"
+  },
+  {
+    "INFRAÇÃO": "740-40",
+    "DESCRIÇÃO": "É proib ao pedestre atravessar via área cruzamento exc onde permitido p/ sinaliz"
+  },
+  {
+    "INFRAÇÃO": "741-20",
+    "DESCRIÇÃO": "É proib pedestre utilizar via em agrupam que perturbe trâns/prát esporte/desfile"
+  },
+  {
+    "INFRAÇÃO": "742-01",
+    "DESCRIÇÃO": "É proibido ao pedestre andar fora da faixa própria"
+  },
+  {
+    "INFRAÇÃO": "742-02",
+    "DESCRIÇÃO": "É proibido ao pedestre andar fora da passarela"
+  },
+  {
+    "INFRAÇÃO": "742-03",
+    "DESCRIÇÃO": "É proibido ao pedestre andar fora da passagem aérea"
+  },
+  {
+    "INFRAÇÃO": "742-04",
+    "DESCRIÇÃO": "É proibido ao pedestre andar fora da passagem subterrânea"
+  },
+  {
+    "INFRAÇÃO": "743-90",
+    "DESCRIÇÃO": "É proibido ao pedestre desobedecer a sinalização de trânsito específica"
+  },
+  {
+    "INFRAÇÃO": "744-72",
+    "DESCRIÇÃO": "Conduzir bicicleta de forma agressiva"
+  },
+  {
+    "INFRAÇÃO": "744-71",
+    "DESCRIÇÃO": "Conduzir bicicleta em passeios onde não seja permitida a circulação desta"
+  },
+  {
+    "INFRAÇÃO": "745-50",
+    "DESCRIÇÃO": "Transitar em velocidade superior à máxima permitida em até 20%"
+  },
+  {
+    "INFRAÇÃO": "746-30",
+    "DESCRIÇÃO": "Transitar em velocidade superior à máxima permitida em mais de 20% até 50%"
+  },
+  {
+    "INFRAÇÃO": "747-10",
+    "DESCRIÇÃO": "Transitar em velocidade superior à máxima permitida em mais de 50%"
+  },
+  {
+    "INFRAÇÃO": "748-01",
+    "DESCRIÇÃO": "Aprovar proj edificação pólo atrativo trânsito s/ anuência órgão/entid trânsito"
+  },
+  {
+    "INFRAÇÃO": "748-02",
+    "DESCRIÇÃO": "Aprovar proj edificação pólo atrativo trâns s/ estacion/indicação vias de acesso"
+  },
+  {
+    "INFRAÇÃO": "751-01",
+    "DESCRIÇÃO": "Iniciar obra perturbe/interrompa circulação/segurança veíc/pedestres s/permissão"
+  },
+  {
+    "INFRAÇÃO": "751-02",
+    "DESCRIÇÃO": "Iniciar evento perturbe/interrompa circulaç/segurança veíc/pedestres s/permissão"
+  },
+  {
+    "INFRAÇÃO": "752-82",
+    "DESCRIÇÃO": "Não sinalizar a execução ou manutenção do evento"
+  },
+  {
+    "INFRAÇÃO": "752-81",
+    "DESCRIÇÃO": "Não sinalizar a execução ou manutenção da obra"
+  },
+  {
+    "INFRAÇÃO": "753-60",
+    "DESCRIÇÃO": "Não avisar comunidade c/ 48h antec interdição via indicando caminho alternativo"
+  },
+  {
+    "INFRAÇÃO": "754-41",
+    "DESCRIÇÃO": "Falta de escrituração livro registro entrada/saída e de uso placa de experiência"
+  },
+  {
+    "INFRAÇÃO": "754-42",
+    "DESCRIÇÃO": "Atraso escrituração livro registro entrada/saída e de uso placa de experiência"
+  },
+  {
+    "INFRAÇÃO": "754-43",
+    "DESCRIÇÃO": "Fraude escrituração livro registro entrada/saída e de uso placa de experiência"
+  },
+  {
+    "INFRAÇÃO": "749-80",
+    "DESCRIÇÃO": "Ñ sinalizar devida/imed obstáculo à circul/segurança veíc/pedestre pista/calçada"
+  },
+  {
+    "INFRAÇÃO": "750-10",
+    "DESCRIÇÃO": "Utilizar ondulação transversal/sonorizador fora padrão/critério estab p/ Contran"
+  },
+  {
+    "INFRAÇÃO": "754-44",
+    "DESCRIÇÃO": "Recusa da exibição do livro registro entrada/saída e de uso placa de experiência"
+  },
+  {
+    "INFRAÇÃO": "755-21",
+    "DESCRIÇÃO": "Conduzir motoc/moton/ efetuando transp remun mercadoria desac c/ art 139-A CTB"
+  },
+  {
+    "INFRAÇÃO": "755-22",
+    "DESCRIÇÃO": "Conduzir motoc/moton/ efet transp remun desac normas ativid profic mototaxistas"
+  },
+  {
+    "INFRAÇÃO": "756-00",
+    "DESCRIÇÃO": "Conduzir veíc de transp passag ou carga em desacordo c/ as cond do art 67-C CTB"
+  },
+  {
+    "INFRAÇÃO": "757-90",
+    "DESCRIÇÃO": "Recusar-se a ser submetido a teste, exame clínico, perícia ou outro procedimento que permita certificar influência de álcool ou outra substância psicoativa, na forma estabelecida pelo art. 277."
+  },
+  {
+    "INFRAÇÃO": "758-70",
+    "DESCRIÇÃO": "Transitar na faixa ou via exclusiva regulam. p/ transp. públ. coletivo passag."
+  },
+  {
+    "INFRAÇÃO": "759-50",
+    "DESCRIÇÃO": "Dirigir veículo realizando cobrança de tarifa com veículo em movimento"
+  },
+  {
+    "INFRAÇÃO": "760-90",
+    "DESCRIÇÃO": "Organizar a conduta prevista no caput do art. 253-A"
+  },
+  {
+    "INFRAÇÃO": "761-73",
+    "DESCRIÇÃO": "Usar qq veículo para, delib, perturbar a circulação na via sem aut do órgão"
+  },
+  {
+    "INFRAÇÃO": "761-72",
+    "DESCRIÇÃO": "Usar qq veículo para, delib, restringir circulação na via sem aut do órgão"
+  },
+  {
+    "INFRAÇÃO": "761-71",
+    "DESCRIÇÃO": "Usar qq veículo para, delib, interromper circulação na via sem aut do órgão"
+  },
+  {
+    "INFRAÇÃO": "762-51",
+    "DESCRIÇÃO": "Estacionar nas vagas reserv às pess c/ deficiência, s/ credencial"
+  },
+  {
+    "INFRAÇÃO": "762-52",
+    "DESCRIÇÃO": "Estacionar nas vagas reserv a idosos, s/ credencial"
+  },
+  {
+    "INFRAÇÃO": "763-32",
+    "DESCRIÇÃO": "Dirigir veículo manuseando telefone celular"
+  },
+  {
+    "INFRAÇÃO": "763-31",
+    "DESCRIÇÃO": "Dirigir veículo segurando telefone celular"
+  },
+  {
+    "INFRAÇÃO": "764-10",
+    "DESCRIÇÃO": "Cond veíc exig hab C, D ou E sem realizar ex toxic prev no § 2º do art 148-A, após 30 dias do venc"
+  },
+  {
+    "INFRAÇÃO": "765-00",
+    "DESCRIÇÃO": "Exerc at rem veíc e não compr a real ex toxic per ex p § 2º do art 148-A por oc ren hab C, D ou E"
+  },
+  {
+    "INFRAÇÃO": "767-00",
+    "DESCRIÇÃO": "Parar o veículo sobre ciclovia ou ciclofaixa"
+  },
+  {
+    "INFRAÇÃO": "768-42",
+    "DESCRIÇÃO": "Conduzir motoc/ moton/ ciclom c/ útil capacete de seg c/ viseira/óculos prot em des c/ regul Contran"
+  },
+  {
+    "INFRAÇÃO": "768-41",
+    "DESCRIÇÃO": "Conduzir motoc/ moton/ ciclom c/ utilização de capacete de segurança s/ viseira/óculos de proteção"
+  },
+  {
+    "INFRAÇÃO": "771-41",
+    "DESCRIÇÃO": "Conduzir motoc/ moton/ ciclom transp pass c/ capacete de segurança s/ viseira/óculos de proteção"
+  },
+  {
+    "INFRAÇÃO": "771-42",
+    "DESCRIÇÃO": "Conduzir motoc/ moton/ ciclom transp pass c/ cap seg c/ viseira/óculos prot em des c/ regul Contran"
+  },
+  {
+    "INFRAÇÃO": "772-20",
+    "DESCRIÇÃO": "Em mov deix de man aces luz baixa de dia, em rod pis simp sit fora per urb, veíc desp luz rod diur"
+  },
+  {
+    "INFRAÇÃO": "773-01",
+    "DESCRIÇÃO": "Evadir-se da cobrança pelo uso de rodovias e vias urbanas para não efetuar seu pagamento"
+  },
+  {
+    "INFRAÇÃO": "773-02",
+    "DESCRIÇÃO": "Deixar de efetuar pagamento, pelo uso de rodovias e vias urbanas, na forma estabelecida"
+  },
+  {
+    "INFRAÇÃO": "774-92",
+    "DESCRIÇÃO": "Dirigir veículo sem possuir cursos específicos obrigatórios"
+  },
+  {
+    "INFRAÇÃO": "774-91",
+    "DESCRIÇÃO": "Dirigir veículo sem possuir cursos especializados obrigatórios"
+  },
+  {
+    "INFRAÇÃO": "775-72",
+    "DESCRIÇÃO": "Em movimento, deixar o veículo de escolares de manter a porta fechada"
+  },
+  {
+    "INFRAÇÃO": "775-71",
+    "DESCRIÇÃO": "Em movimento, deixar veículo de transporte púb. coletivo passageiros de manter a porta fechada"
+  },
+  {
+    "INFRAÇÃO": "776-50",
+    "DESCRIÇÃO": "Fugir o condutor à ação policial"
+  },
+  {
+    "INFRAÇÃO": "777-32",
+    "DESCRIÇÃO": "Entregar veículo a pessoa sem possuir cursos específicos obrigatórios"
+  },
+  {
+    "INFRAÇÃO": "777-31",
+    "DESCRIÇÃO": "Entregar veículo a pessoa sem possuir cursos especializados obrigatórios"
+  },
+  {
+    "INFRAÇÃO": "778-12",
+    "DESCRIÇÃO": "Permitir posse e condução do veículo por pessoa sem possuir cursos específicos obrigatórios"
+  },
+  {
+    "INFRAÇÃO": "778-11",
+    "DESCRIÇÃO": "Permitir posse e condução do veículo por pessoa sem possuir cursos especializados obrigatórios"
+  }
+]
+}
